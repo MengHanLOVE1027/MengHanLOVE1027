@@ -2,8 +2,8 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+    <a href="https://heyuhan.huohuo.ink/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);梦涵LOVE祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
 
@@ -19,15 +19,10 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://heyuhan.huohuo.ink/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/MengHanLOVE1027/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@MengHanLOVE1027"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=MengHanLOVE1027&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <a href="https://space.bilibili.com/1012414757/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -50,11 +45,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是梦涵LOVE。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
@@ -92,11 +84,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
-* <a href='https://blog.sunguoqi.com/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
-* <a href='https://blog.sunguoqi.com/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
-* <a href='https://blog.sunguoqi.com/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
-* <a href='https://blog.sunguoqi.com/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
+* <a href='https://heyuhan.huohuo.ink/posts/kunlunchao/' target='_blank'>昆仑巢「疯狂星期六」，没有人是一座孤岛～</a> - 2024-03-18
+* <a href='https://heyuhan.huohuo.ink/posts/yuanze/' target='_blank'>你好，北京！你好，原则科技！一切都是最好的安排！</a> - 2024-03-10
+* <a href='https://heyuhan.huohuo.ink/posts/2023/' target='_blank'>行则将至，未来可期，和 2023 好好说声再见吧！</a> - 2024-02-20
+* <a href='https://heyuhan.huohuo.ink/posts/xizang/' target='_blank'>西藏之旅｜青春没有售价，火车直达拉萨！</a> - 2024-02-16
+* <a href='https://heyuhan.huohuo.ink/posts/zhuhai/' target='_blank'>珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a> - 2024-01-03
 <!-- END_SECTION:blog -->
 
 </td></tr>
