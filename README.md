@@ -9,7 +9,7 @@
 
   <!-- knock code pictures 个人头像 -->
   <picture>
-    <img src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f"/>
+    <img width="20%" height="20%" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f"/>
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
