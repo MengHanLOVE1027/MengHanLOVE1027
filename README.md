@@ -7,7 +7,7 @@
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- knock code pictures 个人头像 -->
   <picture>
     <img src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f"/>
   </picture>
@@ -41,7 +41,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/jobs.png" />
+<img align="right" width="88" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f" />
 
 <p>&emsp;&emsp;嗨，你好，我是梦涵LOVE。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -52,7 +52,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f" />
 
 - [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
 
