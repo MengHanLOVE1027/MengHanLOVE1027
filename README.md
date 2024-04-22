@@ -94,9 +94,6 @@
 
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/man.png" width="250" height="250" />
-
 <!--  skill badge 技能徽章 -->
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -110,16 +107,8 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=twitter,git" /><br>
-
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/github.webp">
 
 </div>
