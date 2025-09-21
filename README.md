@@ -13,7 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://heyuhan.huohuo.ink/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/MengHanLOVE1027/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://twitter.com/MengHanLOVE/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@MengHanLOVE1027"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://space.bilibili.com/1012414757/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   </div>
@@ -43,23 +43,10 @@
 
 </td></tr>
 
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/99132833?v=4" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
-
-  - 工作岗位：软件工程师
-  - 工作内容：创业
-
-</td></tr>
-
 </table>
 
-
 <!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/MengHanLOVE1027/MengHanLOVE1027/assets/images/hr.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
