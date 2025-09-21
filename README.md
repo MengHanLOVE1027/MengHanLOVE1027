@@ -1,16 +1,11 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://heyuhan.huohuo.ink/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);梦涵LOVE祝您今天愉快!&center=true&size=27" />
-    </a>
-  </div>
-
   <!-- knock code pictures 个人头像 -->
   <picture>
-    <img width="20%" height="20%" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f"/>
+    <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/99132833?v=4"/>
   </picture>
+
+  <h1>梦涵LOVE</h1>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -41,7 +36,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/99132833?v=4" />
 
 <p>&emsp;&emsp;嗨，你好，我是梦涵LOVE。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -52,7 +47,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://github.com/MengHanLOVE1027/MengHanLOVE1027/assets/99132833/59400294-9515-467c-85b1-b62c96f2b19f" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/99132833?v=4" />
 
 - [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
 
